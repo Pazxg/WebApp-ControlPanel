@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbc8866d-ca31-4917-bf7d-1750ec6056b0": {
+      "ProjectGuid": "bbc8866d-ca31-4917-bf7d-1750ec6056b0",
+      "DisplayName": "WebApp-ControlPanel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
